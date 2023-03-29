@@ -6,9 +6,9 @@ Les méthodes etaient la methode DESIDE pour les RH & en agile pour les besoins 
 
 Le projet visait à :
 
-Analyser l’activité des journalistes du groupe 
-Analyser les ventes de publications
-Analyser la fréquentation des sites Web
+- Analyser l’activité des journalistes du groupe 
+- Analyser les ventes de publications
+- Analyser la fréquentation des sites Web
 
 Ce projet avait des contraintes dont:
 
