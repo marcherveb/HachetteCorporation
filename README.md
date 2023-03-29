@@ -1,5 +1,5 @@
 # HachetteCorporation
-Développer un POC d'un Système d'Aide à la Décision pour les pôle RH et marketing de l'entreprise Hachette. 
+Développer un POC d'un Système d'Aide à la Décision pour les pôles RH et marketing de l'entreprise Hachette. 
 
 Dans le cadre de mon master 2, j'avais lors d'un projet la mission d'utiliser deux méthodes projets pour implémenter des SAD pour deux départements. 
 Les méthodes etaient la methode DESIDE pour les RH & en agile pour les besoins marketing.
