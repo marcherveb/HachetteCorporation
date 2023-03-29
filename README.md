@@ -14,4 +14,4 @@ Ce projet avait des contraintes dont:
 
 L'utilisation de ses méthodes de projet, l'utilisation du SGBD Oracle pour la màj du DWH & la création des Datamarts
 
-La mise à disposition des analyses sur l'outil PowerBI
+La mise à disposition des analyses sur l'outil PowerBI avec des connexions directements sur les vues crées depuis Oracle. 
